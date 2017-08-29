@@ -1,6 +1,6 @@
 # vue-music
 
-> Vue.js 开发一款音乐 App
+> Vue.js 开发的一款音乐 App
 
 ## 项目树
 ```
@@ -150,23 +150,23 @@
 
 ## 项目截图
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/1.png)
+![image](https://github.com/barnboo/vue-music/blob/master/static/1.png)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/2.png)
+![image](https://github.com/barnboo/vue-music/blob/master/static/2.png)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/3.png)
+![image](https://github.com/barnboo/vue-music/blob/master/static/3.png)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/4.png)
+![image](https://github.com/barnboo/vue-music/blob/master/static/4.png)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/5.png)
+![image](https://github.com/barnboo/vue-music/blob/master/static/5.png)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/6.png)
+![image](https://github.com/barnboo/vue-music/blob/master/static/6.png)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/7.png)
+![image](https://github.com/barnboo/vue-music/blob/master/static/7.png)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/8.png)
+![image](https://github.com/barnboo/vue-music/blob/master/static/8.png)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/9.png)
+![image](https://github.com/barnboo/vue-music/blob/master/static/9.png)
 
 
 ### 安装与运行
