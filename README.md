@@ -148,7 +148,7 @@
 
 ```
 
-## 项目截图
+### 项目截图
 
 ![image](https://github.com/barnboo/vue-music/blob/master/static/1.png)
 
