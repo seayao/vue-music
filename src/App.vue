@@ -6,6 +6,7 @@
       <router-view></router-view>
     </keep-alive>
     <player></player>
+    <confirm ref="confirm" text="PC端浏览器请调成手机模式或者直接用手机浏览器打开。" confirmBtnText="我知道了"></confirm>
   </div>
 </template>
 
@@ -13,12 +14,17 @@
   import MHeader from 'components/m-header/m-header'
   import Player from 'components/player/player'
   import Tab from 'components/tab/tab'
+  import Confirm from 'base/confirm/confirm'
 
   export default {
+    mounted: function () {
+      this.$refs.confirm.show()
+    },
     components: {
       MHeader,
       Tab,
-      Player
+      Player,
+      Confirm
     }
   }
 </script>
