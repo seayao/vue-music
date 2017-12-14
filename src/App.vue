@@ -6,7 +6,7 @@
       <router-view></router-view>
     </keep-alive>
     <player></player>
-    <confirm ref="confirm" text="PC端浏览器请调成手机模式或者直接用手机浏览器打开。" confirmBtnText="我知道了"></confirm>
+    <!--<confirm ref="confirm" text="PC端浏览器请调成手机模式或者直接用手机浏览器打开。" confirmBtnText="我知道了"></confirm>-->
   </div>
 </template>
 
